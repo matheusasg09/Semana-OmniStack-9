@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img alt="Frontend" src="frontend/public/aircnc.png" width="70%">
+  <img alt="Frontend" src="frontend/public/aircnc.png" width="80%">
 </p>
 
 ## Tecnologias
